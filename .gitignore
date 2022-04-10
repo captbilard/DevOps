@@ -1,0 +1,6 @@
+*.log
+*.pdf
+.vagrant/*
+.zip
+.viscode/*
+*.conf
